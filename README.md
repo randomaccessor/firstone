@@ -1,2 +1,2 @@
-# firstone
-Leraning new things in Hacktoberfest.
+# First One
+Learning new things in Hacktoberfest.
